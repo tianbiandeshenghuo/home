@@ -87,6 +87,8 @@ const siteUrl = import.meta.env.VITE_SITE_URL.split("..");
 const upData = reactive({
   new: [
     "站点部署完毕~感谢 imsyy 的开源~",
+    "小站有了自己的域名~请记住域名：https://tbdsh.cnone.link/",
+    "博客也有域名了~请记住域名：https://blogtbdsh.cnone.link/"
   ],
 });
 
