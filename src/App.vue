@@ -116,7 +116,7 @@ onMounted(() => {
 ⠒⠒⢲⠒⠒⠂⠐⠄⣀⣆⣀⣀⠄⣀⣔⡀⢰⣀⡀⠄⣆⣀⣆⣀⣀⠄⠢⠠⠤⡤⠒⠄
 ⠒⠒⡺⡒⠒⠂⠐⡆⢀⠇⠄⢸⠄⣇⣀⡇⠣⡀⡇⠘⣀⣀⣇⣀⡀⠄⠑⠐⠒⡗⠒⠂
 ⣀⠔⠁⠑⢄⡀⢀⢇⣊⣀⣐⣚⠄⣇⣀⡇⠄⣁⡇⢀⣀⣀⣇⣀⣀⠄⡸⢸⣉⣉⣹⠄`;
-  const content = `\n\n版本: ${config.version}\n主页: https://tbdsh.eu.org\nGithub: https://github.com/tianbiandeshenghuo/home`;
+  const content = `\n\n版本: ${config.version}\n主页: https://home.tbdsh.top\nGithub: https://github.com/tianbiandeshenghuo/home`;
   console.info(
     `%c${title1} %c${title2} %c${content}`,
     styleTitle1,
