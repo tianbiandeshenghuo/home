@@ -19,7 +19,7 @@
           </a>
         </span>
         <!-- 站点备案 -->
-        <a v-if="siteIcp" href="https://icp.gov.moe/?keyword=20236684" target="_blank">
+        <a v-if="siteIcp" href="https://icp.gov.moe/?keyword=20246654" target="_blank">
           &amp;
           {{ siteIcp }}
         </a>
